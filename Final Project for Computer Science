@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html> 
+	<head>
+	  <p><in> Hi there! My name is Matthew Yohannes, I am currently a senior at Arapahoe High School and proud member of the Speech and Debate team. You see, speech and debate team or "forensics" is meant to promote public speaking and critical thinking skills in youth. <a href="https://www.speechanddebate.org/" target="_blank"> Here is the link to the NSDA website.</a><in/></p>
+    <p><in> Forensics students compete in multiple events. The event that I compete in is called Extemporaneous Speaking. Typically, Extempers are given 30 minutes to write a speech that is 7 minutes in length about current events. Extemp is split into two different events, United States, and International. The latter involves current events and policy questions that occur domestically, and the former involves issues that occur across the globe. It's a very difficult, but highly awarding event. The purpose of this website is to provide resources for extempers, both novices and veterans, and help them grow as competitors.</p>
+       <p> Here is a video of the 2016 National Champion in Domestic Extemp., Micah Cash, giving an extemp speech. This is a pretty good example of what extemperaneous speech would be like. Down below, you will find information on structuring a speech.</p>
+    	<title>Final Project for CSS</title>
+                                                                                            	
+      <style type="text/css"> 
+                                                                                                                                                                
+      </style>
+                                                                        
+  </head>
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GzleSyp7iMg" frameborder="0" allowfullscreen></iframe>"></iframe>
+    <body>
+                                                                          
+      <p id = "xpara">
+     <title>Structure of an extemporaneous speech</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>                                                                          
+  
+     $( function() {
+     $( "#accordion" ).accordion();
+     } );
+  </script>
+  
+  <div id="accordion">
+  <h3>How to structure an extemp speech</h3>
+  <div>
+    <p>
+    I competed in a variety of events. My main event was U.S. Domestic Extemporaneous Speaking, I am constantly reading the news and writing speeches on policy issues, social issues, and a variety of current events that impact the United States.
+       <body> 
+           <ol>
+      <li>Introduction</li>
+          <ol type= a>
+            <li> AGD (attention getting device):  </li>
+            <li> BG (Background on Topic or Issue):</li>
+            <li> Thesis:</li>
+            <li> Bridge (connect your thesis and point 1):</li>
+          </ol>
+  <p> Typically, in Extemp speeches you take a stance on a particular issue and justify that position with three points or "arguments" of analysis.</p>
+      <p>Point 1: This is the first of many points, where you can write a reason for believing in thesis.</p>
+          <ol type= a>
+                  <li> Evidence: <b>You are trying to state a point (fact, anecdote, etc.) that helps to support your thesis, or argument you are making. You will usually get these points from different news articles.</b></li><br>
+                  
+                  <li> Citation: <b> You are citing a source that supports your point (fact/anecdote). This is usually a news article or research paper.</b></li><br>
+                    
+                  <li> Evidence: <b>(This is your 2nd piece of evidence)</b></li><br>
+                  
+                  <li> Citation: <b>(This is your second citation for that piece of evidence).</b></li> </br> 
+                  
+                  <li><b> Analysis: This is where you will "analyze" all the points you just gave and tell the audience members how they support your initial point, and most of all, how it fits the overall argument</b></li></br>
+           </ol>
+      
+      <p>Point 2:</p>
+            <ol type= a>     
+                  <li> Evidence:</li></br>
+                
+                  <li> Citation: </li></br>
+              
+                  <li> Evidence: </li></br>
+                
+                  <li> Citation: </li></br>
+          .      
+                  <li><b>Analysis:</b></li></br>  
+            </ol>        
+        
+      <p>Point 3:</p>
+          <ol type= a> 
+               <li> Evidence: </li></br> 
+                  
+               <li> Citation: </li></br>
+        
+               <li> Evidence: </li></br>
+               
+               <li> Citation: </li></br>
+            
+               <li><b>Analysis:</b></li></br> 
+          </ol>
+  
+      <p>Conclusion: <b>(This is where you wrap things up, restate your thesis, three points, and introduction).</b></p>
+   
+       </body>
+       
+    </p>
+
+  
+    <ul> 
+    
+    
+    </ul>
+  
+  
+  </div>   
+  <h3>Extemporaneous speech sample </h3>
+  <div>
+    <p> In speech and debate, I competed in a variety of events, including Congressional Debate, Original Oratory, Licoln-Douglas Debate, and Impromptu Speaking. But as you can tell, my main event is Extemporaneous Speaking. Extemp is split into Domestic and International, and I competed in Domestic Extemp. I am constantly reading the news and writing speeches on policy issues, social issues, and a variety of current events that impact the United States.
+    </p> Here is a sample of what an extemp speech "shoud" look like. Keep in mind that this is a shortned version, and is simply meant as a guidline to follow when crafting an extemp speech. </p>
+       <li>Introduction:</li>
+          <ol type= a>
+            <li> AGD (attention getting device): The art, history, and culture of Japan has existed for hundreds of years, and is a society that not only imports and exports thousands of goods across the globe, but has played a larger role in the global economy since it's defeat in WWII. </li>
+            <li> BG (Background on Topic or Issue): Since the end of World War 2 article 9 of the Japanese constitution has prevented it from developing a standing army. Since then, Japan has gotten by on self-defense forces that were meant to defend the island nation from outside forces and invasions</li>
+            <li> Thesis: Should Japan change it's article 9 of it's constitution? </li>
+            <li> Answer: Yes </li>      
+            <li> Bridge (connect your thesis and point 1): This brings us to our question, (say thesis word for word) and the answer is "yes" for three key reasons. First, because the Japanese want to reaffirm traditional values, Second, because allies like the U.S. are withdrawing their military forces, and finally because Japan should act as a counterweight to regional powers like China and North Korea</li>
+          
+          </ol>
+      <p>Point 1: Article 9 prevents Japanese from supporting key allies</p>
+          <ol type= a>
+                  <li> Evidence: <b> A law supporeted by Shinzo Abe and the ruling party reinterprets the law, allowing Japan to support allies abroad through their military if necessary.      </b></li><br>
+                  
+                  <li> Citation: <b> The Atlantic September 19th, 2015</b></li><br>
+                    
+                  <li> Evidence: <b> Under current international law, Japan has the right to defend it self, but under article 9 Japan can't excercise this right.  </b></li><br>
+                  
+                  <li> Citation: <b> Japan Times March 15th, 2016 </b></li> </br> 
+                  
+                  <li><b> Analysis: It's clear that Article 9 has not limited Japans ability to defends itself against foreign threats, but prevent it from supporting allies abroad. </b></li></br>
+           </ol>
+      
+      <p>Point 2: American Support is being withdrawn from Japan</p>
+            <ol type= a>     
+                  <li> Evidence: <b>Currently, President Trump has proposed to withdraw military forces from Japan and South Korea because they don't "pay their fair share".</b></li></br>
+                
+                  <li> Citation: NPR November 10, 2016 </li></br>
+              
+                  <li> Evidence: <b>It costs the U.S 1.7 billion for Japan to host bases in Japan. Currently, more then 50,000 troops are stationed there.</b></li></br>
+                
+                  <li> Citation: Japan Times May 5th, 2016</li></br>
+          .      
+                  <li><b>Analysis: Due to the massive cost of hosting military forces in Japan, and President Trumps campaign proposals to remove military forces it's clear that Japan should reform it's constitution to include the ability to start a collective self-defense force.</b></li></br>  
+            </ol>        
+
+        
+      <p>Point 3: Counterbalance other threats in east asia</p>
+          <ol type= a> 
+               <li> Evidence: <b>There are major terratorial disputes along the South-china sea with China, which has claimed ownership of several islands in the region.</b></li></br> 
+                  
+               <li> Citation: BBC July 12th, 2016</li></br>
+        
+               <li> Evidence: <b>Additionally, other powers such as North Korea have tested and tried to launch nuclear missles</b></li></br>
+               
+               <li> Citation: Real Clear Politics - Defense - March 6th, 2016 </li></br>
+            
+               <li><b>Analysis: With militarisation within the south china sea, and the growing nuclear capabilities of North Korea, Japan needs to reform article 9 so they can counter these powers</b></li></br> 
+          </ol>
+  
+      <p>Conclusion: <b> Japan is an island nation, existing for thousands of years, and yet to continue this tradition, it's clear that Japan needs to re-militarize and defend itself and other allies from global threats. This is for three key reasons: First, because article 9 prevents it from support key allies, Second because American support is being withdrawn from Japan, and finally because Japan could act as a counter to other threats and rising powers in east asia. Thank you.</b></p>
+           
+  
+  
+  </div>   
+                                                      
+  <h3> Questions (Domestic and International): </h3>
+  <div> 
+    <h3> Questions (domestic): </h3>       
+    <p>
+      Here is a list of questions you can use to practice. These might be a bit outdated, but generally, the questions you'll get in extemp rounds will follow this format.
+      <ol> 
+      <li> Should president Donald Trump take stronger action against North Korea?</li> 
+      <li> How can the government regulate self-driving cars? </li> 
+      <li> Has the United States achieved gender equality? </li> 
+      <li> Should the federal government raise the minimum wage? </li>
+      <li> Should congress pass an infrastructure spending bill? </li>  
+      <li> Should President Trump overhaul the H1-B visa program?</li>
+      <li> Did James Comey investigations have an adverse impact on the results of the 2016 presidential election?</li>
+      <li> Should congressional term limits be imposed? </li> 
+      <li> Is the court system to political? </li>
+      <li> Is a single-payer health care system a good idea?</li>
+        </ol>
+  '</p>
+
+  <h3> Questions (international): </h3>
+  <div> 
+     <p> Here are some questions for international extemp. These are like domestic, but deal with a broad range of international issues</p>
+      <ol> 
+      <li> What can be done about the russian demographic crises? </li>
+      <li> Is the U.N. a weak organization? </li> 
+      <li> Should turkey be allowed into the European Union? </li>
+      <li> How can South Africans bolster their standing economically? </li>   
+      <li> What can be done about sunni and shiite relations in the middle east? </li> 
+      <li> Will it be in Chinas best interest to withdraw from the south china sea?</li> 
+      <li> Should the U.S. interven in the Syrian Civil War? </li>
+      <li> What steps can be taken to prevent north korea from becoming an international threat?</li>
+      <li> Will Marine Le Pen win the french election?  </li>
+      <li> Should Japan revise it's post-war constitution?</li> 
+       </ol>
+    </p>
+</div> 
+
+</div>
+ <h3>How to speak well: (General pointers for public speaking)</h3>
+  <div> 
+   </script>		     
+       <img style="width: 400px; height: 260px" src="Barack Obama Speaking - 4,27,17.jpg"></img> 
+       
+     <p> </br> As we all know, giving an extemp speech in under 30 minutes is pretty scary. You can't simply know good content, but must be able to speak well and enhance your delivery. Here are a few pointers to help you do so.<br></p>
+        </p> </br> </in>  1. Before you get up there, take a deep breath and know that you are the only one who understands what you are about to talk about. Don't get nervous by worrying about the opinions of your judges<in><br> </p>  
+        </p> </br> 2. Make sure that you gesticulate really well. Put your hands out in front of you when you are speaking, and use them around in order to emphasize every point you want to make<br> </p>
+        </p> </br> 3. Don't just stand in one place when you are speaking, you can further emphasize those points by moving around the stage/floor. Here is an illustration: <br></p>
+        </p> </br> </p> 
+
+
+      <ol> 
+
+       <img style="width:420px; height:360px" src="speechmovement.png"></img>
+
+       </ol>
+    </p>
+</div> 
+
+
+   
+   </div>    
+    
+    
+
+  </div> 
+
+  </div>   
+                                                                      
+      <script type="text/javascript">
+        
+       </script>		     
+       <img style="width:310px; height: 310px" src="extemp file -4,6,17-01.png"></img>
+       
+    </body>
+    
+</html>
